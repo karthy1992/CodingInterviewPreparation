@@ -1,1 +1,2 @@
-trainingdemo contents
+trainingdemo contents   
+adding some contents to the server file itself
