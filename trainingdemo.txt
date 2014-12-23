@@ -1,2 +1,3 @@
 trainingdemo contents   
 adding some contents to the server file itself
+adding some contents in the local master branch 
