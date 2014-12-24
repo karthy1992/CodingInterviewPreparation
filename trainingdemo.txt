@@ -1,1 +1,2 @@
-sever training demo branch contents availabale
+sever training demo branch contents availabalei
+we are adding contents locally in the branch trainingdemo2 and checking whether it has been updated to the server branch called trainingdemo
